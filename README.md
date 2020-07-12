@@ -5,7 +5,7 @@
 
 ### 群体画像的社交网站讨论
 1. https://www.zhihu.com/question/23667481
-2. https://www.zhihu.com/question/34041705/answer/58147758?utm_source=wechat_session&utm_medium=social&utm_oi=644647727682686976
+2. https://www.zhihu.com/question/34041705
 3. https://www.zhihu.com/question/56499299
 4. https://www.zhihu.com/question/34228945
 
